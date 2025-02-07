@@ -14,7 +14,7 @@ A simple **Countdown Timer** built using HTML, CSS, and JavaScript. This timer a
 - **CSS** - Styling and layout  
 - **JavaScript** - Countdown logic and real-time updates  
 
-## 📥 Installation & Setup
+## Installation & Setup
 1. Clone this repository:
    ```
    git clone https://github.com/Amaan3073/Counter-Timer.git
